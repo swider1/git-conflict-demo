@@ -1,3 +1,4 @@
 lokalna linia
 
 zmiana konfliktowa lokalnie
+zmiana konfliktowa lokalnie 1
