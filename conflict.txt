@@ -1,4 +1,8 @@
 lokalna linia
 
 zmiana konfliktowa lokalnie
-zmiana konfliktowa lokalnie 1
+
+local + remote: zmiana konfliktowa lokalnie 1 i 2
+
+
+
