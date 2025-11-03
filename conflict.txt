@@ -1,1 +1,3 @@
 lokalna linia
+
+zmiana konfliktowa lokalnie
